@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## End to End ML Project
 ### Created an environment
 ```
@@ -11,5 +10,3 @@ conda activate venv/
 pip install -r requirements.txt
 ```
 =======
-# DiamondPrice
->>>>>>> origin/main
